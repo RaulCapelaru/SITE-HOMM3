@@ -1,0 +1,38 @@
+.container {
+  margin:0 auto; /* this will center the page */
+  width: 1080px; /*  use your width here */
+}
+
+h1 {
+  text-align: center;
+  color: #3E54AC;
+}
+
+div.scrollmenu {
+  background-color: #ECF2FF;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: #3E54AC;
+  text-align: center;
+  padding: 24px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+div.scrollmenu a:hover {
+  background-color: #BFACE2;
+}
+
+.img-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+p {
+  font-size: 18px;
+}
